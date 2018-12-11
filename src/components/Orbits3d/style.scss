@@ -1,0 +1,13 @@
+.orbits3d {
+    position: relative;
+    height: -webkit-fill-available;
+    height: -moz-available;
+    width: 100%;   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    color: white;
+    height: calc(100vh - 100px);
+}
